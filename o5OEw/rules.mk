@@ -6,3 +6,10 @@ ORYX_ENABLE = yes
 RGB_MATRIX_CUSTOM_KB = yes
 TAP_DANCE_ENABLE = yes
 SPACE_CADET_ENABLE = no
+
+
+
+#User defined options for the Cirque Pinnacle I2C trackpad
+POINTING_DEVICE_ENABLE = yes
+POINTING_DEVICE_DRIVER = cirque_pinnacle_i2c
+

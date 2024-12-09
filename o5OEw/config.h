@@ -27,3 +27,11 @@
 
 #define RGB_MATRIX_STARTUP_SPD 60
 
+
+
+
+//User Defined Options for the Cirque Pinnacle Trackpad
+#define CIRQUE_PINNACLE_TAP_ENABLE
+
+#define POINTING_DEVICE_ROTATION_90
+
